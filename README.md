@@ -1,5 +1,5 @@
 # Defaceweb
-![](./Images/Screenshot.png)
+![](./images/Screenshoot.png)
 # Usage
 ```
 pkg upadate && pkg upgrade
