@@ -1,6 +1,7 @@
 #!/usr/bin/shell
-# Life Of Programmer
-# Recode By Nedi Senja
+# Deface Website Target Live
+# Coded By Senja
+# Github: github.com/thesixtynine/Deface
 
 clear
 reset
@@ -14,11 +15,18 @@ printf "
 \033[0;77m     ██║  ██║██╔══╝  ██╔══╝  ██╔══██║██║     ██╔══╝
 \033[0;77m     ██████╔╝███████╗██║     ██║  ██║╚██████╗███████╗
 \033[0;77m     ╚═════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝
+\033[0;4;37m ○● 千尺丨乇几ᗪ丂 ㄒ卄乇 Ꮆ尺卂ㄚ 卄卂ㄒ 爪ㄚ ㄒ乇卂爪 ●○
+
 "
+
 sleep 1
 echo
-echo "\033[1;32m                  * Recode by Nedi Senja"
+echo "\033[0m[\033[1;94m#\033[0m] Deface Website"
+echo "\033[0m[\033[1;93m*\033[0m] Coded by Senja"
+echo "\033[0m[\033[1;96m&\033[0m] My Github: @thesixtynine"
 echo
+echo
+
 echo "          \033[0m\033[97;45;1m:       # WEBSITE TARGET LIVE #       :\033[0m\033[1;77m"
 sleep 1
 echo "          \033[0;35m║                                     \033[0;35m║"
