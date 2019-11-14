@@ -1,6 +1,6 @@
-# Screenshot
+# Screenshot:
 ![](./images/Screenshot.png)
-# Usage
+# Usage:
 ```
 pkg upadate && pkg upgrade
 apt-get install git
