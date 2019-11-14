@@ -4,11 +4,11 @@
 ```
 pkg upadate && pkg upgrade
 apt-get install git
-apt-get install nano
+apt-get install python2
 git clone https://github.com/thesixtynine/Defaceweb
 cd Defaceweb
 ls
-sh deface.sh
+python2 deface.py
 ```
 # Paypal:
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
