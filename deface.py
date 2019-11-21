@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # Defaceweb
 # Coded by Senja
-# Github: gitbub.com/thesixtynine/Defaceweb
+# Github: gitbub.com/thedarksec/Defaceweb
 
 import os, sys, time
 from urllib2 import Request, urlopen, URLError, HTTPError
@@ -36,10 +36,10 @@ logo = '''\x1b[77;1m
 print (logo)
 
 def lines():
-        f = open("datapages.txt","r");
+        f = open("pages.txt","r");
         print ('\x1b[0m[\x1b[94;1m#\x1b[0m] Deface Website Attacker')
         print ('\x1b[0m[\x1b[93;1m*\x1b[0m] Coded by Senja')
-        print ('\x1b[0m[\x1b[96;1m&\x1b[0m] My Github: @thesixtynine')
+        print ('\x1b[0m[\x1b[96;1m&\x1b[0m] My Github: @thedarksec')
         time.sleep(1)
         print
         link = raw_input('\x1b[0m[\x1b[92;1m+\x1b[0m] \x1b[77;1mWeb Targets\x1b[0m: ')
