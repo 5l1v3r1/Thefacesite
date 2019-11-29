@@ -28,7 +28,7 @@ def write(f):
 
 
 def lines():
-        f = open("finder.txt","r");
+        f = open("pages.txt","r");
         print ('\x1b[0m[\x1b[94;1m#\x1b[0m] Deface Website Attacker')
         print ('\x1b[0m[\x1b[93;1m*\x1b[0m] Coded by Senja')
         print ('\x1b[0m[\x1b[96;1m&\x1b[0m] My Github: @thedarksec')
