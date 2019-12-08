@@ -1,8 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Deface
+# Deface Website
 # Coded by Senja
-# Github: gitbub.com/thedarksec/Deface
+# Github: github.com/stepbystepexe/Thefacesite
 
 import os, sys, time, marshal
 from urllib2 import Request, urlopen, URLError, HTTPError
@@ -28,10 +28,8 @@ def write(f):
 
 
 def lines():
-        f = open("pages.txt","r");
-        print ('\x1b[0m[\x1b[94;1m#\x1b[0m] Deface Website Attacker')
-        print ('\x1b[0m[\x1b[93;1m*\x1b[0m] Coded by Senja')
-        print ('\x1b[0m[\x1b[96;1m&\x1b[0m] My Github: @thedarksec')
+        f = open("finder.txt","r");
+        print ('\x1b[103;90;1m:        The Face Site v1.0m, Coded by @stepbystep       :\033[0m')
         time.sleep(1)
         print
         link = raw_input('\x1b[0m[\x1b[95;1m+\x1b[0m] \x1b[77;1mWeb Targets\x1b[0m: ')
