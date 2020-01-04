@@ -6,7 +6,7 @@ pkg upadate && pkg upgrade
 apt-get install git
 apt-get install python2
 git clone https://github.com/stepbystepexe/Thefacesite
-cd Defaceweb
+cd Thefacesite
 ls
 python2 thefacesite.py
 ```
