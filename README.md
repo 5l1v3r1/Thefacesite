@@ -10,6 +10,9 @@ cd Thefacesite
 ls
 python2 thefacesite.py
 ```
+#### Kontak:
++ Email d_q16x@outlook.co.id
++ WhatsApp +62 5775433901
 #### Paypal:
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
 #### LiberaPay:
