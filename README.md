@@ -1,3 +1,5 @@
+# Thefacesite:
+*Deface adalah teknik mengganti atau menyisipkan file pada server, teknik ini dapat dilakukan karena terdapat lubang pada sistem security yang ada di dalam sebuah aplikasi.*
 #### Screenshot:
 ![](./Skrinsut.png)
 #### Cara Menginstall:
@@ -12,8 +14,9 @@ python2 thefacesite.py
 ```
 #### Kontak:
 + Email d_q16x@outlook.co.id
-+ WhatsApp +62 5775433901
++ WhatsApp https://tinyurl.com/wel4alo
 #### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
++ Onclick https://bit.ly/3dcEQcN
 #### LiberaPay:
 <noscript><a href="https://liberapay.com/stepbystepexe/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+>**Created by Nedi Senja**
